@@ -1,0 +1,3 @@
+Artwork: OpenMoji contributors (https://openmoji.org/) under CC BY-SA 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
+Images adapted from the lesson slides: turtle mirrored, rotated, resized; sheep resized. Derived artwork is available under the same license.
